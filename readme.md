@@ -8,7 +8,7 @@ The existence of this project came from two apprenticeship patterns introduced b
 4. List podcasts and other resources I use to gain knowledge
 5. Learn. And help others learn.
 
-If you have any suggestions or want to discuss any of the books, hit me up on twitter @corymonty[1].
+If you have any suggestions or want to discuss any of the books, hit me up on twitter [@corymonty][1].
 
 [1]: http://www.twitter.com/corymonty "You should follow me on twitter"
 
