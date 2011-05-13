@@ -1,4 +1,4 @@
-= Reading List
+# Reading List
 
 The purpose of this repo is to accomplish two apprenticeship patterns introduced by Dave Hoover: Reading List and Record What You Learn. My goals are to:
 
@@ -12,16 +12,16 @@ If you have any suggestions to add or want to discuss any of the books, hit me u
 
 ***
 
-== Books
+## Books
 
 ***
 
-== Podcasts
+## Podcasts
 
 ***
 
-== Screencasts
+## Screencasts
 
 ***
 
-== Up Next
+## Up Next
