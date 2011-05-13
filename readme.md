@@ -10,18 +10,14 @@ The purpose of this repo is to accomplish two apprenticeship patterns introduced
 
 If you have any suggestions to add or want to discuss any of the books, hit me up on twitter @corymonty
 
-***
 
 ## Books
 
-***
 
 ## Podcasts
 
-***
 
 ## Screencasts
 
-***
 
 ## Up Next
