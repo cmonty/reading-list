@@ -1,6 +1,6 @@
 # Reading List
 
-The purpose of this repo is to accomplish two apprenticeship patterns introduced by Dave Hoover: Reading List and Record What You Learn. My goals are to:
+The purpose of this repo is to accomplish two apprenticeship patterns introduced by Dave Hoover: _Reading List_ and _Record What You Learn_. My goals are to:
 
 1. Track what I'm reading to find gaps in knowledge
 2. Document my thoughts on the book
