@@ -57,7 +57,7 @@ Learn C on the Mac by Dave Mark
 
 [**The Big Web Show**][2] by Jeffery Zeldman and Dan Benjamin
 
-> Mostly and interview show where Jeffery converses with someone doing something totally innovative on the web using standards. Awesome to keep current on the ever-changing technologies on the web.
+> Mostly an interview show where Jeffery converses with someone doing something totally innovative on the web using standards. Awesome to keep current on the ever-changing technologies on the web.
 
 [**Talk Show**][3] by John Gruber and Dan Benjamin
 
