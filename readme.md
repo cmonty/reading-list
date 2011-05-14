@@ -117,6 +117,7 @@ RSpec Mocks and Models by PeepCode
 
 ## Up Next
 
+* Programming Ruby 1.9 by Dave Thomas
 * Object-Oriented Software Construction by Bertrand Meyer
 * Code Complete by Microsoft
 * Refactoring Ruby by Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
