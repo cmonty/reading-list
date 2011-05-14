@@ -51,7 +51,7 @@ Learn C on the Mac by Dave Mark
 
 ## Podcasts
 
-[Build and Analyze][1] by Marco Arment and Dan Benjamin
+[**Build and Analyze**][1] by Marco Arment and Dan Benjamin
 
 [The Big Web Show][2] by Jeffery Zeldman and Dan Benjamin
 
