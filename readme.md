@@ -53,23 +53,23 @@ Learn C on the Mac by Dave Mark
 
 [**Build and Analyze**][1] by Marco Arment and Dan Benjamin
 
-[The Big Web Show][2] by Jeffery Zeldman and Dan Benjamin
+[**The Big Web Show**][2] by Jeffery Zeldman and Dan Benjamin
 
-[Talk Show][3] by John Gruber and Dan Benjamin
+[**Talk Show**][3] by John Gruber and Dan Benjamin
 
-[Hypercritical][4] by John Siracusa and Dan Benjamin
+[**Hypercritical**][4] by John Siracusa and Dan Benjamin
 
-[The Pipeline][5] by Dan Benjamin
+[**The Pipeline**][5] by Dan Benjamin
 
-[The Ruby Show][6] by Peter Cooper and Jason Seifer
+[**The Ruby Show**][6] by Peter Cooper and Jason Seifer
 
-[Back to Work][7] by Merlin Mann and Dan Benjamin
+[**Back to Work**][7] by Merlin Mann and Dan Benjamin
 
-[Let's Make Mistakes][8] by Mike Monteiro and Katie Gillum
+[**Let's Make Mistakes**][8] by Mike Monteiro and Katie Gillum
 
-[Ruby5][9] by Envy Labs
+[**Ruby5**][9] by Envy Labs
 
-[VimCasts][10] by Drew Neil
+[**VimCasts**][10] by Drew Neil
 
 
 [1]: http://5by5.tv/buildanalyze
