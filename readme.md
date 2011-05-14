@@ -125,6 +125,6 @@ RSpec Mocks and Models by PeepCode
 
 ### Notes
 
-I rely on [Instapaper][1] to shift blog posts and the like to my iPhone and iPad. If you use Instapaper, be my friend through my twitter handle and we'll share what we like to read on the internet!
+I rely on [Instapaper][1] to shift blog posts and the like to my iPhone and iPad. If you use Instapaper you should be my friend through my twitter handle and we'll share what we like to read on the internet!
 
 [1]: http://instapaper.com
