@@ -53,23 +53,43 @@ Learn C on the Mac by Dave Mark
 
 [**Build and Analyze**][1] by Marco Arment and Dan Benjamin
 
+> Got into this podcast because I love Instapaper and Marco provides some great insight on PHP and iPhone development. Not just about writing code, but about dealing with Apple, customers, and coffee. Staple in my playlist. 
+
 [**The Big Web Show**][2] by Jeffery Zeldman and Dan Benjamin
+
+> Mostly and interview show where Jeffery converses with someone doing something totally innovative on the web using standards. Awesome to keep current on the ever-changing technologies on the web.
 
 [**Talk Show**][3] by John Gruber and Dan Benjamin
 
+> John Gruber provides brillant analysis on today's tech stories. They also do this sweet James Bond review at the end of the show.
+
 [**Hypercritical**][4] by John Siracusa and Dan Benjamin
+
+> Super-critical, nothing is perfect views on the tech and web industry. Can get a bit overbearing to hear someone complain for an hour straight, but gives you some different angles to think about.
 
 [**The Pipeline**][5] by Dan Benjamin
 
+> Solo interview show with a wide-range of topics. Good resource to step out of the web and software industry sometimes.
+
 [**The Ruby Show**][6] by Peter Cooper and Jason Seifer
+
+> Combined with Ruby5, these two podcasts are a great way to keep up with Ruby, Rails, and the surrounding communities.
 
 [**Back to Work**][7] by Merlin Mann and Dan Benjamin
 
+> Chaotic show, but dives into topics to assist focus and growth as you work. A lot of fun.
+
 [**Let's Make Mistakes**][8] by Mike Monteiro and Katie Gillum
+
+> Have only listened to two episodes so far, but Mike and Katie are pretty down-to-earth designers giving a different viewpoint on the web.
 
 [**Ruby5**][9] by Envy Labs
 
+> Ruby news in 5 minutes. Awesome.
+
 [**VimCasts**][10] by Drew Neil
+
+> I'm a n00b in Vim (as of 5/11) so a natural place to learn some vim.
 
 
 [1]: http://5by5.tv/buildanalyze
