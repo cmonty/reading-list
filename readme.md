@@ -1,6 +1,8 @@
 # Reading List
 
-The existence of this project came from two apprenticeship patterns introduced by Dave Hoover: _Reading List_ and _Record What You Learn_. My goals:
+The existence of this project came from two apprenticeship patterns introduced by Dave Hoover: _Reading List_ and _Record What You Learn_. 
+
+My goals:
 
 1. Track what I'm reading to find gaps in my knowledge
 2. Document my thoughts on books
