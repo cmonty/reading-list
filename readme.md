@@ -102,3 +102,9 @@ RSpec Mocks and Models by PeepCode
 * Design Patterns Ruby Edition by Russ Olsen
 * Peopleware Papers by Larry Constantine
 * Test Driven Development by Example by Kent Beck
+
+### Notes
+
+I rely on [Instapaper][1] heavily for internet reading. If you use Instapaper, be my friend through my twitter handle and we'll share what we like to read on the internet!
+
+[1]: http://instapaper.com
