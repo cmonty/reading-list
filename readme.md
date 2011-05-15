@@ -30,8 +30,6 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 > I liked the fact Derek started the book comparing PHP to Ruby. It set up the rest of the book and showed some fundamental Ruby practices to apply when using the Rails framework. Otherwise, it was just a typical overview of Rails. I probably should have combined it with Agile Web Development with Rails. _2010_
 
-**Ruby Best Practices** by Gregory Brown
-
 **Agile Web Development with Rails** by Sam Ruby
 
 > Frustrated that I wasn't developing in Rails after starting this book, I used this book as a reference for while creating a Breakable Toy (not the one in the book). I think I skimmed over most of the latter parts of the book, so I should pick re-read some parts. _2010_
@@ -41,6 +39,8 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 > While I wasn't totally lost in the world of bits, I did think I needed to better manage my inbox, tasks, files, etc. I've put most of Mark's theory into practice, like emmigrating information in my inbox to its more appropraite place. Looking at file naming conventions and organization was an added bonus, because I feel I need to be more strict. Also, went over concepts from this book with co-workers at Fireman Creative. _2010_
 
 **Book of Ruby** by Huw Collingbourne
+
+> Skimmed through chapters of this book to dive into aspects of Ruby I feel I needed to gain knowledge. Otherwise, the book is good to use as a reference and could be used in conjunction with the Ruby Koans by Edge Case. _2011_
 
 **CSS3 for Web Designers** by Dan Cederholm
 
@@ -145,6 +145,7 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 ## Up Next
 
 * **Programming Ruby 1.9** by Dave Thomas
+* **Ruby Best Practices** by Gregory Brown
 * **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert Martin
 * **Object-Oriented Software Construction** by Bertrand Meyer
 * **Code Complete** by Microsoft
