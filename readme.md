@@ -17,39 +17,67 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Books
 
-Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+**Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
 
-Apprenticeship Patterns by Dave Hoover and Adewale Oshineye
+> In progress. _2011_
 
-Learn Objective-C on the Mac by Mark Dalrymple and Scott Knaster
+**Apprenticeship Patterns** by Dave Hoover and Adewale Oshineye
 
-Rails for PHP Developers by Derek DeVries
+> A truly good foundation to build your career. I'm in the process of applying each pattern (once a day with a mug of tea). If you want to get serious about your knowledge and the craft of software, this is the place to start. _2011_
 
-Ruby Best Practices by Gregory Brown
+**Learn Objective-C on the Mac** by Mark Dalrymple and Scott Knaster
 
-Agile Web Development with Rails by Sam Ruby
+**Rails for PHP Developers** by Derek DeVries
 
-Bit Literacy by Mark Hurst
+> I liked the fact Derek started the book comparing PHP to Ruby. It set up the rest of the book and showed some fundamental Ruby practices to apply when using the Rails framework. Otherwise, it was just a typical overview of Rails. I probably should have combined it with Agile Web Development with Rails. _2010_
 
-Book of Ruby by Huw Collingbourne
+**Ruby Best Practices** by Gregory Brown
 
-CSS3 for Web Designers by Dan Cederholm
+**Agile Web Development with Rails** by Sam Ruby
 
-Designing with Web Standards by Jeffery Zeldman and Ethan Marcotte
+> Frustrated that I wasn't developing in Rails after starting this book, I used this book as a reference for while creating a Breakable Toy (not the one in the book). I think I skimmed over most of the latter parts of the book, so I should pick re-read some parts. _2010_
 
-The Elements of Content Strategy by Erin Kissane
+**Bit Literacy** by Mark Hurst
 
-HTML5 for Web Designers by Jeremy Keith
+> While I wasn't totally lost in the world of bits, I did think I needed to better manage my inbox, tasks, files, etc. I've put most of Mark's theory into practice, like emmigrating information in my inbox to its more appropraite place. Looking at file naming conventions and organization was an added bonus, because I feel I need to be more strict. Also, went over concepts from this book with co-workers at Fireman Creative. _2010_
 
-Being Geek by Michael Lopp
+**Book of Ruby** by Huw Collingbourne
 
-Beer School by Steve Hindy and Tom Potter
+**CSS3 for Web Designers** by Dan Cederholm
 
-Getting Good with Git by Andrew Burgess
+> More tutorials and examples than I would have liked, but I think they aimed to show-off what Dan was discussing at the moment. A great, quick overview of the future of CSS. Out of the hardcore discipline of programming, but I still work in the web industry and need to stay up-to-date with new standards. Plus, CSS isn't _that_ bad. _2010_
 
-Web Form Design: Filling in the Blanks by Luke Wroblewski
+**Designing with Web Standards** by Jeffery Zeldman and Ethan Marcotte
 
-Learn C on the Mac by Dave Mark
+> Obviously a must-read for any designer _or_ developer. Crafting the best HTML is the most essential part of any web application. Making sure the content is accessible and consistent will prevent support headaches throughout your application's lifecyle. Not to mention, Jeffery Zeldman is a true inspiration and one of the reasons I was naturally curious about software craftsmanship. _2010_
+
+**The Elements of Content Strategy** by Erin Kissane
+
+> An application's content shouldn't be low priority. Erin looks at how to discuss the importance of content to a client or someone resistant. Content Strategy is not something I study at length, but it still relates to the web industry and this book is a quick read. _2011_ 
+
+**HTML5 for Web Designers** by Jeremy Keith
+
+> Ah, the inaugural book from [A Book Apart][1]. Jeremy takes us inside the HTML5 spec without all the verbose wording. He sets up how to use new semantic page outlines and also the importance of plugin free multimedia. Another quick read and awesome resource. I'll glad to have it on my bookshelf, as I truly believe in the new and powerful web. _2010_
+
+[1]: http://www.abookapart.com/
+
+**Being Geek** by Michael Lopp
+
+> Yet to finish, but a fascinating look at how to survive in the software/web industry. Michael deals more with life inside a bigger corporation, but some insights prove true at small, startup-style atmospheres. As with Apprenticeship Patterns, he preaches to take control of your own career. Don't wait for HR or some other person to help you. _2011_
+
+**Beer School** by Steve Hindy and Tom Potter
+
+> Love, love, love Brooklyn Beer. Steve and Tom are great storytellers and vividly recount all their mistakes and successes. Not only did they create a new brand from scratch, but both switch careers to something that was only a hobby, but one they loved and took pride in. They surrounded themselves with super smart brewmasters as mentors and now they have an exceptional product. _2010_
+
+**Getting Good with Git** by Andrew Burgess
+
+> Quick and resourceful. Taught me some small tips when we were just switching from SVN to Git. Biggest thing to read and re-read is the concept of the staging area and branches. _2010_
+
+**Web Form Design: Filling in the Blanks** by Luke Wroblewski
+
+> Read this book while planning a survey application. I wanted to make sure we were designing forms in a way that made sense for the user and that they were also accessible. I think the most important concept I got from this book was error messaging. Forms that don't make it clear what, where, and why an error occured can be frustrating. _2010_
+
+**Learn C on the Mac** by Dave Mark
 
 ## Podcasts
 
@@ -107,13 +135,13 @@ Learn C on the Mac by Dave Mark
 
 ## Screencasts
 
-WWDC 2010 Session Videos by Apple
+**WWDC 2010 Session Videos** by Apple
 
-iPhone Application Development by Stanford University
+**iPhone Application Development** by Stanford University
 
-RSpec Basics by PeepCode
+**RSpec Basics** by PeepCode
 
-RSpec Mocks and Models by PeepCode
+**RSpec Mocks and Models** by PeepCode
 
 ## Up Next
 
