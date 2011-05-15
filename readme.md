@@ -124,7 +124,7 @@ RSpec Mocks and Models by PeepCode
 * Refactoring Ruby by Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
 * Pragmatic Programmer by Andy Hunt and David Thomas
 * Design Patterns Ruby Edition by Russ Olsen
-* Peopleware Papers by Larry Constantine
+* Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy Lister
 * Test Driven Development by Example by Kent Beck
 
 ### Notes
