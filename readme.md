@@ -26,6 +26,8 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 **Learn Objective-C on the Mac** by Mark Dalrymple and Scott Knaster
 
+> Another book I'd like to revisit soon with my iOS development goal in mind. The book provides clear examples and how the code relates to C code. I'd like to create a simple Breakable Toy since I didn't interact much with the code examples from the book. _2010_
+
 **Rails for PHP Developers** by Derek DeVries
 
 > I liked the fact Derek started the book comparing PHP to Ruby. It set up the rest of the book and showed some fundamental Ruby practices to apply when using the Rails framework. Otherwise, it was just a typical overview of Rails. I probably should have combined it with Agile Web Development with Rails. _2010_
@@ -77,6 +79,8 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 > Read this book while planning a survey application. I wanted to make sure we were designing forms in a way that made sense for the user and that they were also accessible. I think the most important concept I got from this book was error messaging. Forms that don't make it clear what, where, and why an error occured can be frustrating. _2010_
 
 **Learn C on the Mac** by Dave Mark
+
+> Great introduction to compiled languages and C in general. I need to revisit with new learning approaches. Great pre-cursor to Learn Objective-C on the Mac. _2010_
 
 ## Podcasts
 
@@ -136,11 +140,19 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 **WWDC 2010 Session Videos** by Apple
 
+> Got into these videos because I can't go to WWDC :-( (maybe someday!). They are awesome and I particularly paid attention to any ones dealing with new HTML technologies (video playback, offline storage, etc). Highly recommend you get yourself an Apple Developer account and download some of these videos. And new ones will be coming out soon! _2010_
+    
 **iPhone Application Development** by Stanford University
+
+> Excellent, excellent resource from Stanford University. I'm in the beginning of the lectures, but I can already tell learning from these guys in gonna be a blast. _2011_
 
 **RSpec Basics** by PeepCode
 
+> Wanted to get a quick overview of how RSpec and Test::Unit differed, so I watched the short video by PeepCode. Nice overview and I can't wait to integrate RSpec into my workflow. _2011_
+
 **RSpec Mocks and Models** by PeepCode
+
+> RSpec Basics peaked my curiousity for more RSpec goodness. I'm liking what you can do with RSpec and I think my next steps are to finish out the series and then on to Cucumber. _2011_
 
 ## Up Next
 
