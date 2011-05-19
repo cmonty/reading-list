@@ -16,9 +16,13 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Books
 
-**Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
+**Programming Ruby 1.9** by Dave Thomas
 
 > In progress. _2011_
+
+**Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
+
+> Excellent book if you're ramping up your didication to learning. Andy goes over some awesome techniques (like the Mind Map) and explains how to get the most out a learning experience. Opened my eyes to the Dreyfus Model and where I'm at on my journey and what I need to do to get there. Key point to remember: R-mode to L-mode flow. _2011_
 
 **Apprenticeship Patterns** by Dave Hoover and Adewale Oshineye
 
@@ -156,7 +160,6 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Up Next
 
-* **Programming Ruby 1.9** by Dave Thomas
 * **Ruby Best Practices** by Gregory Brown
 * **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert Martin
 * **Object-Oriented Software Construction** by Bertrand Meyer
