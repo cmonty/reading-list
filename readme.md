@@ -170,6 +170,7 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 * **Peopleware: Productive Projects and Teams** by Tom DeMarco and Timothy Lister
 * **Test Driven Development by Example** by Kent Beck
 * **The Clean Coder: A Code of Conduct for Professional Programmers** by Robert Martin
+* **Hackers & Painters** by Paul Graham
 
 ### Notes
 
