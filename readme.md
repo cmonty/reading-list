@@ -9,9 +9,9 @@ My goals:
 3. Use GitHub wikis as an easy knowledge-store
 4. Learn. And help others learn.
 
-If you have any suggestions or want to discuss any of the books, hit me up on twitter [@corymonty][1].
+If you have any suggestions or want to discuss any of the books, hit me up on twitter [@corymonty][tw].
 
-[1]: http://www.twitter.com/corymonty "You should follow me on twitter"
+[tw]: http://www.twitter.com/corymonty "You should follow me on twitter"
 
 
 ## Books
@@ -62,9 +62,9 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 **HTML5 for Web Designers** by Jeremy Keith
 
-> Ah, the inaugural book from [A Book Apart][1]. Jeremy takes us inside the HTML5 spec without all the verbose wording. He sets up how to use new semantic page outlines and also the importance of plugin free multimedia. Another quick read and awesome resource. I'll glad to have it on my bookshelf, as I truly believe in the new and powerful web. _2010_
+> Ah, the inaugural book from [A Book Apart][aba]. Jeremy takes us inside the HTML5 spec without all the verbose wording. He sets up how to use new semantic page outlines and also the importance of plugin free multimedia. Another quick read and awesome resource. I'll glad to have it on my bookshelf, as I truly believe in the new and powerful web. _2010_
 
-[1]: http://www.abookapart.com/
+[aba]: http://www.abookapart.com/
 
 **Being Geek** by Michael Lopp
 
@@ -174,6 +174,6 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ### Notes
 
-I rely on [Instapaper][11] to shift blog posts and the like to my iPhone and iPad. If you use Instapaper you should be my friend through my twitter handle and we'll share what we like to read on the internet!
+I rely on [Instapaper][ins] to shift blog posts and the like to my iPhone and iPad. If you use Instapaper you should be my friend through my twitter handle and we'll share what we like to read on the internet!
 
-[11]: http://instapaper.com
+[ins]: http://instapaper.com
