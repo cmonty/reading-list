@@ -174,6 +174,6 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ### Notes
 
-I rely on [Instapaper][1] to shift blog posts and the like to my iPhone and iPad. If you use Instapaper you should be my friend through my twitter handle and we'll share what we like to read on the internet!
+I rely on [Instapaper][11] to shift blog posts and the like to my iPhone and iPad. If you use Instapaper you should be my friend through my twitter handle and we'll share what we like to read on the internet!
 
-[1]: http://instapaper.com
+[11]: http://instapaper.com
