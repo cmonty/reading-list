@@ -16,9 +16,13 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Books
 
-**Programming Ruby 1.9** by Dave Thomas
+**Pragmatic Programmer** by Andy Hunt and David Thomas
 
 > In progress. _2011_
+
+**Programming Ruby 1.9** by Dave Thomas
+
+> Great in-depth look at the functionality and syntax of the Ruby language. Learned many tidbits and foundations alike. The back half of the book can be used as a quick reference, in addition to the Ruby docs. _2011_
 
 **Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
 
