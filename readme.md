@@ -169,7 +169,6 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 * **Object-Oriented Software Construction** by Bertrand Meyer
 * **Code Complete** by Microsoft
 * **Refactoring Ruby** by Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
-* **Pragmatic Programmer** by Andy Hunt and David Thomas
 * **Design Patterns Ruby Edition** by Russ Olsen
 * **Peopleware: Productive Projects and Teams** by Tom DeMarco and Timothy Lister
 * **Test Driven Development by Example** by Kent Beck
