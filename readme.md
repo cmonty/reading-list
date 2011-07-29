@@ -18,7 +18,7 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 **Pragmatic Programmer** by Andy Hunt and David Thomas
 
-> In progress. _2011_
+> Solid narrative on how you should approach being a programmer and what idioms you should follow. _Apprenticeship Patterns_ copied the same format of the book (approach, examples, exercises). Code samples are in Java and C, but book still holds up many years later because of the fundamentals that are presented. _2011_
 
 **Programming Ruby 1.9** by Dave Thomas
 
