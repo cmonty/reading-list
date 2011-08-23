@@ -16,6 +16,14 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Books
 
+**Refactoring Ruby** by Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
+
+> _In Progress_
+
+**Responsive Web Design** by Ethan Marcotte
+
+> Quick overview of making and implementing a responsive grid layout. Includes examples for responsive background and inline images. Also, covers media-queries for targeting devices. This style of design is the way of the future to ensure users get relevant information quickly. _2011_
+
 **Pragmatic Programmer** by Andy Hunt and David Thomas
 
 > Solid narrative on how you should approach being a programmer and what idioms you should follow. _Apprenticeship Patterns_ copied the same format of the book (approach, examples, exercises). Code samples are in Java and C, but book still holds up many years later because of the fundamentals that are presented. _2011_
@@ -168,7 +176,6 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 * **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert Martin
 * **Object-Oriented Software Construction** by Bertrand Meyer
 * **Code Complete** by Microsoft
-* **Refactoring Ruby** by Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
 * **Design Patterns Ruby Edition** by Russ Olsen
 * **Peopleware: Productive Projects and Teams** by Tom DeMarco and Timothy Lister
 * **Test Driven Development by Example** by Kent Beck
