@@ -16,9 +16,13 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Books
 
+**Hackers & Painters** by Paul Graham
+
+> _2012_
+
 **Refactoring Ruby** by Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
 
-> _In Progress_
+> In depth examples/explanations of many common refactorings (based on the original). When coding, I find myself mentally associating what I'm doing with the examples from this book. I want to loop back and compare this with the original Refactoring book. _2012_
 
 **Responsive Web Design** by Ethan Marcotte
 
@@ -98,59 +102,59 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 > Great introduction to compiled languages and C in general. I need to revisit with new learning approaches. Great pre-cursor to Learn Objective-C on the Mac. _2010_
 
-## Podcasts
+## Current Podcasts
 
 [**Build and Analyze**][1] by Marco Arment and Dan Benjamin
 
-> Got into this podcast because I love Instapaper and Marco provides some great insight on PHP and iPhone development. Not just about writing code, but about dealing with Apple, customers, and coffee. Staple in my playlist. 
+> _Retired_ Got into this podcast because I love Instapaper and Marco provides some great insight on PHP and iPhone development. Not just about writing code, but about dealing with Apple, customers, and coffee. Staple in my playlist.
 
-[**The Big Web Show**][2] by Jeffery Zeldman and Dan Benjamin
-
-> Mostly an interview show where Jeffery converses with someone doing something totally innovative on the web using standards. Awesome to keep current on the ever-changing technologies on the web.
-
-[**Talk Show**][3] by John Gruber and Dan Benjamin
+[**Talk Show**][2] by John Gruber and Dan Benjamin
 
 > John Gruber provides brillant analysis on today's tech stories. They also do this sweet James Bond review at the end of the show.
 
-[**Hypercritical**][4] by John Siracusa and Dan Benjamin
-
-> Super-critical, nothing is perfect views on the tech and web industry. Can get a bit overbearing to hear someone complain for an hour straight, but gives you some different angles to think about.
-
-[**The Pipeline**][5] by Dan Benjamin
-
-> Solo interview show with a wide-range of topics. Good resource to step out of the web and software industry sometimes.
-
-[**The Ruby Show**][6] by Peter Cooper and Jason Seifer
-
-> Combined with Ruby5, these two podcasts are a great way to keep up with Ruby, Rails, and the surrounding communities.
-
-[**Back to Work**][7] by Merlin Mann and Dan Benjamin
+[**Back to Work**][3] by Merlin Mann and Dan Benjamin
 
 > Chaotic show, but dives into topics to assist focus and growth as you work. A lot of fun.
 
-[**Let's Make Mistakes**][8] by Mike Monteiro and Katie Gillum
+[1]: http://5by5.tv/buildanalyze
+[2]: http://www.muleradio.net/thetalkshow
+[3]: http://5by5.tv/b2w
+
+## Past Podcasts
+
+[**Let's Make Mistakes**][4] by Mike Monteiro and Katie Gillum
 
 > Have only listened to two episodes so far, but Mike and Katie are pretty down-to-earth designers giving a different viewpoint on the web.
 
-[**Ruby5**][9] by Envy Labs
+[**Ruby5**][5] by Envy Labs
 
 > Ruby news in 5 minutes. Awesome.
 
-[**VimCasts**][10] by Drew Neil
+[**VimCasts**][6] by Drew Neil
 
-> I'm a n00b in Vim (as of 5/11) so a natural place to learn some vim.
+[**Hypercritical**][7] by John Siracusa and Dan Benjamin
 
+> _Retired_ Super-critical, nothing is perfect views on the tech and web industry. Can get a bit overbearing to hear someone complain for an hour straight, but gives you some different angles to think about.
 
-[1]: http://5by5.tv/buildanalyze
-[2]: http://5by5.tv/bigwebshow
-[3]: http://5by5.tv/talkshow
-[4]: http://5by5.tv/hypercritical
-[5]: http://5by5.tv/pipeline
-[6]: http://rubyshow.com/
-[7]: http://5by5.tv/b2w
-[8]: http://5by5.tv/mistakes
-[9]: http://ruby5.envylabs.com/
-[10]: http://vimcasts.org/
+[**The Pipeline**][8] by Dan Benjamin
+
+> Solo interview show with a wide-range of topics. Good resource to step out of the web and software industry sometimes.
+
+[**The Ruby Show**][9] by Peter Cooper and Jason Seifer
+
+> Combined with Ruby5, these two podcasts are a great way to keep up with Ruby, Rails, and the surrounding communities.
+
+[**The Big Web Show**][10] by Jeffery Zeldman and Dan Benjamin
+
+> Mostly an interview show where Jeffery converses with someone doing something totally innovative on the web using standards. Awesome to keep current on the ever-changing technologies on the web.
+
+[4]: http://5by5.tv/mistakes
+[5]: http://ruby5.envylabs.com/
+[6]: http://vimcasts.org/
+[7]: http://5by5.tv/hypercritical
+[8]: http://5by5.tv/pipeline
+[9]: http://rubyshow.com/
+[10]: http://5by5.tv/bigwebshow
 
 ## Screencasts
 
@@ -180,11 +184,5 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 * **Peopleware: Productive Projects and Teams** by Tom DeMarco and Timothy Lister
 * **Test Driven Development by Example** by Kent Beck
 * **The Clean Coder: A Code of Conduct for Professional Programmers** by Robert Martin
-* **Hackers & Painters** by Paul Graham
 * **The Algorithm Design Manual** by Steven S. Skiena
 
-### Notes
-
-I rely on [Instapaper][ins] to shift blog posts and the like to my iPhone and iPad. If you use Instapaper you should be my friend through my twitter handle and we'll share what we like to read on the internet!
-
-[ins]: http://instapaper.com
