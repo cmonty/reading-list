@@ -1,13 +1,12 @@
 # Reading List
 
-The existence of this project came from two apprenticeship patterns introduced by Dave Hoover: _Reading List_ and _Record What You Learn_. A book, in this instance, is anything through which I'm gaining knowledge (be it a podcast, book, blog, or screencast). 
+The existence of this project came from two patterns introduced by Dave Hoover: _Reading List_ and _Record What You Learn_. A book, in this instance, is anything through which I'm gaining knowledge (be it a podcast, book, blog, or screencast). 
 
 My goals:
 
 1. Track what I'm reading to find gaps in my knowledge
 2. Document my thoughts on books
-3. Use GitHub wikis as an easy knowledge-store
-4. Learn. And help others learn.
+3. Learn. And help others learn.
 
 If you have any suggestions or want to discuss any of the books, hit me up on twitter [@corymonty][tw].
 
@@ -104,11 +103,11 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Current Podcasts
 
-[**Build and Analyze**][1] by Marco Arment and Dan Benjamin
+[**Ruby Rogues**][1]
 
-> _Retired_ Got into this podcast because I love Instapaper and Marco provides some great insight on PHP and iPhone development. Not just about writing code, but about dealing with Apple, customers, and coffee. Staple in my playlist.
+> Panel of Rubyists discussing any topic which is relevant to the programming community. I don't agree with all solutions/examples, but it's interesting to here other opinions and thoughts.
 
-[**Talk Show**][2] by John Gruber and Dan Benjamin
+[**Talk Show**][2] by John Gruber
 
 > John Gruber provides brillant analysis on today's tech stories. They also do this sweet James Bond review at the end of the show.
 
@@ -116,9 +115,24 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 > Chaotic show, but dives into topics to assist focus and growth as you work. A lot of fun.
 
-[1]: http://5by5.tv/buildanalyze
+[**jimseven**][12] by James Hoffman
+
+> Coffee podcast that is currently inactive. I've been enjoying the archived episodes and learned a great deal about how coffee industry professionals select, roast, and experiment with coffee.
+
+[**America's Test Kitchen Radio**][14]
+
+> Tips from professional chefs regarding home cooking. Test Kitchen (the same people behind _Cook's Illustrated_, etc, do many experiments with a recipe to bring out the best flavor in a dish. 
+
+[**Mark Kermode and Simon Mayo**][15]
+
+> Film reviews from across the pond. Very in-depth, meaningful insight into movies currently in theaters.
+
+[1]: http://rubyrogues.com
 [2]: http://www.muleradio.net/thetalkshow
 [3]: http://5by5.tv/b2w
+[12]:  http://www.jimseven.com/2011/02/20/episode-one-stephen-morrissey/
+[14]: http://www.americastestkitchen.com/radio
+[15]: http://www.bbc.co.uk/programmes/b00lvdrj
 
 ## Past Podcasts
 
@@ -148,6 +162,14 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 > Mostly an interview show where Jeffery converses with someone doing something totally innovative on the web using standards. Awesome to keep current on the ever-changing technologies on the web.
 
+[**Build and Analyze**][11] by Marco Arment and Dan Benjamin
+
+> _Retired_ Got into this podcast because I love Instapaper and Marco provides some great insight on PHP and iPhone development. Not just about writing code, but about dealing with Apple, customers, and coffee. Staple in my playlist.
+
+[**Salt & Fat**][13]
+
+> _Retired_ Podcast regarding cooking and eating. Some great discussions and tips for cooking at home. Follow the blog for more.
+
 [4]: http://5by5.tv/mistakes
 [5]: http://ruby5.envylabs.com/
 [6]: http://vimcasts.org/
@@ -155,6 +177,8 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 [8]: http://5by5.tv/pipeline
 [9]: http://rubyshow.com/
 [10]: http://5by5.tv/bigwebshow
+[11]: http://5by5.tv/buildanalyze
+[13]: http://www.muleradio.net/saltandfat
 
 ## Screencasts
 
