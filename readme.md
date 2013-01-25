@@ -127,6 +127,20 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 > _2012_
 
+## Papers
+
+**Out of the Tarpit** by Ben Moseley
+
+> _2012_
+
+**On the Criteria To Be Used in Decomposing Systems into Modules** by D.L.  Parnas
+
+> _2012_
+
+**Spanner: Google's Globally Distributed Database** by Google
+
+> _2012_
+
 ## Current Podcasts
 
 [**Ruby Rogues**][1]
@@ -223,6 +237,13 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 **RSpec Mocks and Models** by PeepCode
 
 > RSpec Basics peaked my curiousity for more RSpec goodness. I'm liking what you can do with RSpec and I think my next steps are to finish out the series and then on to Cucumber. _2011_
+
+## Conferences
+
+**ClojureConj** _Raleigh-Durham, North Carolina_
+**Strangeloop 2012** _St. Louis, Missouri_
+**OSCO 2012** _Portland, Oregon_
+**Strangeloop 2011** _St. Louis, Missouri_
 
 ## Up Next
 
