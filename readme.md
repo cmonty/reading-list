@@ -240,10 +240,10 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Conferences
 
-**ClojureConj** _Raleigh-Durham, North Carolina_
-**Strangeloop 2012** _St. Louis, Missouri_
-**OSCO 2012** _Portland, Oregon_
-**Strangeloop 2011** _St. Louis, Missouri_
+* **ClojureConj** _Raleigh-Durham, North Carolina_
+* **Strangeloop 2012** _St. Louis, Missouri_
+* **OSCO 2012** _Portland, Oregon_
+* **Strangeloop 2011** _St. Louis, Missouri_
 
 ## Up Next
 
