@@ -119,6 +119,14 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Other Books
 
+**Coffee Life in Japan** by Merry White
+
+> _2013_
+
+**Born to Run** by Christopher McDougall
+
+> _2013_
+
 **Steve Jobs** by Walter Isaacson
 
 > _2012_
