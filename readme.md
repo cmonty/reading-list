@@ -15,6 +15,22 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 
 ## Books
 
+**Growing Object Oriented Software Guided by Tests** by Steve Freeman
+
+> _2012_
+
+**The Joy of Clojure** by Michael Fogus
+
+> _2012_
+
+**Design Patterns Ruby Edition** by Russ Olsen
+
+> _2012_
+
+**Domain Driven Design** by Eric Evans
+
+> _2012_
+
 **Hackers & Painters** by Paul Graham
 
 > _2012_
@@ -100,6 +116,16 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 **Learn C on the Mac** by Dave Mark
 
 > Great introduction to compiled languages and C in general. I need to revisit with new learning approaches. Great pre-cursor to Learn Objective-C on the Mac. _2010_
+
+## Other Books
+
+**Steve Jobs** by Walter Isaacson
+
+> _2012_
+
+**The Art and Craft of Coffee** by Kevin Sinnott
+
+> _2012_
 
 ## Current Podcasts
 
@@ -204,7 +230,6 @@ If you have any suggestions or want to discuss any of the books, hit me up on tw
 * **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert Martin
 * **Object-Oriented Software Construction** by Bertrand Meyer
 * **Code Complete** by Microsoft
-* **Design Patterns Ruby Edition** by Russ Olsen
 * **Peopleware: Productive Projects and Teams** by Tom DeMarco and Timothy Lister
 * **Test Driven Development by Example** by Kent Beck
 * **The Clean Coder: A Code of Conduct for Professional Programmers** by Robert Martin
